@@ -28,7 +28,7 @@ const nestedMuppet = {
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
-const [moo, neigh, baa, four, five] = 'cow horse sheep c d'.split(" ")
+const [moo, neigh, baa, oink, five] = 'cow horse sheep c d'.split(" ")
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them bessie, dolly, babe, and little.
 
 // 3. Little the chicken had to go back to the coop, so now we're left with three. Let's use color variables of blackAndWhite, black, and pink.
