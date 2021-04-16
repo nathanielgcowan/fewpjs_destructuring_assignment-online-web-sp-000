@@ -46,4 +46,3 @@ const [ moo] = cow;
 // 7. Use destructuring to assign all variables using the keys as the variable names
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
-
